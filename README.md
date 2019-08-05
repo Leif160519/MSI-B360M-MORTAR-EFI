@@ -1,0 +1,7 @@
+# MSI-B360M-MORTAR-EFI
+配置：
+CPU：I5-9600K
+主板：微星B360M迫击炮
+内存：16GB DDR4 8GBX2
+硬盘：西数黑盘NVME+Intel 760P 250GB
+显卡：AMD Vega 56蓝宝石
