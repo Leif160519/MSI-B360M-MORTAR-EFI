@@ -182,7 +182,7 @@
 		<key>XMPDetection</key>
 		<false/>
 		<key>Timeout</key>
-		<integer>0</integer>
+		<integer>5</integer>
 		<key>DefaultVolume</key>
 		<string>Macintosh HD</string>
 	</dict>
