@@ -13,7 +13,8 @@
 - 显卡：ASUS GTX 1080
 - 蓝牙：USB 型号：CSR8510 A10
 - WIFI：无，推荐BCM94360或BCM94352免驱
-- USB接口：主板自带4个2.0 1个3.1和一个type c，机箱前置面板2个3.0
+- USB接口：主板自带4个2.0 1个3.1和一个type c，机箱前置面板2个3.0，已定制
+- 声卡：未定制，使用voodooHDA.kext
 - OS：10.13.6
 
 ## 二、注意
@@ -48,6 +49,8 @@
 
 ![image](images/显示器.png)
 
+![image](images/显示器-1.png)
+
 - 存储空间
 
 ![image](images/存储空间.png)
@@ -80,9 +83,19 @@
 
 ![image](images/图形卡.png)
 
+- 声卡
+
+![image](images/声卡.png)
+
+![image](images/音频.png)
+
 - CPU变频
 
 ![image](images/变频.png)
+
+- 内核扩展,只保留生效驱动
+
+![image](images/内核扩展.png)
 
 ## 四、小贴士
 
