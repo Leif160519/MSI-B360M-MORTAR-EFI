@@ -85,7 +85,7 @@
 
 - 声卡
 
-![image](images/声卡.png)
+![image](images/声音.png)
 
 ![image](images/音频.png)
 
