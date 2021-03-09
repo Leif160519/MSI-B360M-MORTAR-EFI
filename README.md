@@ -1,6 +1,6 @@
 # MSI-B360M-MORTAR-EFI
 
-## 一、EFI
+## 一、EFI([AMD版本](README-AMD.md))
 
 配置：
 

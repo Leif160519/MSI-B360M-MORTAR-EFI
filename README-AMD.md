@@ -1,5 +1,5 @@
 # MSI-B360M-MORTAR-EFI
-## EFI-AMD
+## EFI-AMD([NVIDIA版本](README.md))
 配置：
 
 - CPU：Intel Core i5-9600K
